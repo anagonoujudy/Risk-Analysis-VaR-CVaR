@@ -2,7 +2,7 @@ Projet : Optimisation de Portefeuille et Gestion du Risque
 
 ======================================================================
 
-📌 Contexte
+Contexte
 
 Un opérateur souhaite investir 1 000 000 € aujourd’hui dans un portefeuille diversifié.
 
@@ -25,7 +25,7 @@ L'objectif de ce projet est de construire un portefeuille diversifié d'actifs f
 
 Le projet s’appuie sur des méthodes classiques de finance quantitative (Markowitz et CAPM) ainsi que sur des simulations Monte Carlo pour simuler des scénarios possibles de performance du portefeuille sur un horizon d’un an.
 
-Le portefeuille étudié vise à profiter d'une diversification sectorielle tout en protégeant le capital contre l'inflation.
+Le portefeuille étudié vise à profiter d'une diversification sectorielle.
 
 ======================================================================
 
@@ -96,3 +96,4 @@ Finance-Quant-Portfolio/
 Auteur :
 
 Judith ANAGONOU– Ingénieur Financier 
+
