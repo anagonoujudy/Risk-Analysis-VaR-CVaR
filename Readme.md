@@ -1,4 +1,4 @@
-Projet Finance Quantitative – Optimisation de Portefeuille et Gestion du Risque
+Projet : Optimisation de Portefeuille et Gestion du Risque
 
 ======================================================================
 
@@ -94,4 +94,5 @@ Finance-Quant-Portfolio/
 ======================================================================
 
 Auteur :
+
 Judith ANAGONOU– Ingénieur Financier 
