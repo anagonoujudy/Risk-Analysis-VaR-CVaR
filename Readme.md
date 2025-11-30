@@ -72,13 +72,6 @@ Le portefeuille étudié vise à profiter d'une diversification sectorielle.
 
 ======================================================================
 
-💻 Utilisation
-1. Placer les fichiers CSV des historiques de prix dans le dossier 'data/'.
-2. Exécuter le script Python principal.
-3. Visualiser les graphiques et tableaux de résultats générés.
-
-======================================================================
-
 📁 Structure du projet recommandée
 
 Finance-Quant-Portfolio/
@@ -96,4 +89,5 @@ Finance-Quant-Portfolio/
 Auteur :
 
 Judith ANAGONOU– Ingénieur Financier 
+
 
